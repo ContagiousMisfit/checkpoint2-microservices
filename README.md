@@ -1,5 +1,7 @@
 #  **Microservice And Web Engineering**
 
+
+
 * *Turma:* 3SIT FIAP
 * *Graduação:* Sistemas de Informação
 * *Ano:* 2022
@@ -10,12 +12,9 @@
 | Matheus Nathan Modanez        | 86065 |
 
 
-# O Projeto
-> Nossa aplicação se trata de um CRUD funcional desenvolvido seguindo os princípios de Clean Architecture e Design Patterns, em especial, o padrão Command. É possível criar, editar e deletar um pedido, como detalhado a seguir na documentação.
-
+# 👨🏻‍💻 O Projeto
+Nossa aplicação se trata de um CRUD funcional desenvolvido seguindo os princípios de Clean Architecture e Design Patterns, em especial, o padrão Command. É possível criar, editar e deletar um produto. Em docs, você pode encontrar a collection com o modelo de requisições do Postman.
 ## Documentação Swagger
 Rota para acesso:
 > **http://localhost:8080/swagger-ui.html**
 
-## 👨🏻‍💻 O Projeto
-Nossa aplicação se trata de um CRUD funcional desenvolvido seguindo os princípios de Clean Architecture e Design Patterns, em especial, o padrão Command. É possível criar, editar e deletar um produto. Em docs, você pode encontrar a collection com o modelo de requisições do Postman.
